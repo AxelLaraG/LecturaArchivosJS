@@ -19,4 +19,3 @@ function encontrar_pdfs(ruta) {
 const ruta_entrada = "Path";
 const pdfs_encontrados = encontrar_pdfs(ruta_entrada);
 console.log(pdfs_encontrados);
-console.log(pdfs_encontrados[1]);
